@@ -1,4 +1,4 @@
-// Populate the timezone selector
+
 const timezoneSelector = document.getElementById('timezone-selector');
 
 const populateTimezones = () => {
